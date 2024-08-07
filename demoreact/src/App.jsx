@@ -1,16 +1,14 @@
 import './App.css'
 import Nav from './components/nav/nav.jsx'
 import Body from './components/body/body.jsx'
-function App() {
 
+function App() {
   return (
-    <>
-      <div className="App">
-        <Nav />
-        <Body />
-      </div>
-    </>
-  )
+    <div className="App">
+      <Nav />
+      <Body />
+    </div>
+  );
 }
 
-export default App
+export default App;
