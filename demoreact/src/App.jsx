@@ -4,7 +4,7 @@ import Body from './components/body/body.jsx'
 
 function App() {
   return (
-    <div className="App">
+    <div className="app-container">
       <Nav />
       <Body />
     </div>
