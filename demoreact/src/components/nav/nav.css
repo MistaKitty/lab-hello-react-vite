@@ -2,15 +2,13 @@ nav {
     width: 90vw;
     height: 60rem;
     background-image: url("../../assets/background.jpg");
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
 .nav-icons{
     padding: 2rem 2rem;
     width: 90vw;
-    display: flex;
-    flex-direction: row;
+    display: flex;    
     align-items: center;
     justify-content: space-between;
 }
